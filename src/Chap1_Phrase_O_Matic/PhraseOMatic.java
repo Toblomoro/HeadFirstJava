@@ -1,4 +1,4 @@
-package Phrase_O_Matic;
+package Chap1_Phrase_O_Matic;
 
 
 import java.util.Random;

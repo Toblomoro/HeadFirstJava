@@ -1,6 +1,7 @@
 package Chap3_Variables;
 
 import Chap2_Objectville_exercises.Dog;
+import Chap2_Objectville_exercises.DogTestDrive;
 
 import java.util.Arrays;
 
@@ -17,14 +18,24 @@ public class Array_Stuff {
         nums[6] = 1;
         System.out.print(Arrays.toString(nums) + "\n");
 
+
+        Dog killer = new Dog();
+    killer.name = "Killer";
+    killer.size = 90;
+    killer.breed = "Cujo";
+
+
+
+
         Dog[] pets;
         pets = new Dog[3];
         pets[0] = new Dog();
         pets[1] = new Dog();
-        pets[2]= pets[1];
+        pets[2]= killer;
 
         pets[0].name = "Fido";
         pets[1].name = "Emmett";
+
 
         System.out.println("Last dog's name is " + pets[2].name);
 //Iterate through array to take action on items

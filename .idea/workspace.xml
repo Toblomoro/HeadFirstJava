@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d310617d-51d1-4d96-9f17-56af8f68e967" name="Changes" comment="Get and set work">
-      <change afterPath="$PROJECT_DIR$/src/Chap4_Methods_Instance_Var/GoodDogArray.java" afterDir="false" />
+    <list default="true" id="d310617d-51d1-4d96-9f17-56af8f68e967" name="Changes" comment="Get and set an arrays!">
+      <change beforePath="$PROJECT_DIR$/src/Chap4_Methods_Instance_Var/GoodDogArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chap4_Methods_Instance_Var/GoodDogArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669073515812</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Get and set an arrays!">
+      <created>1669076774329</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669076774330</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,6 +184,7 @@
     <MESSAGE value="Dog and Movie object creation and utilization" />
     <MESSAGE value="Array work and iteration" />
     <MESSAGE value="Get and set work" />
-    <option name="LAST_COMMIT_MESSAGE" value="Get and set work" />
+    <MESSAGE value="Get and set an arrays!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Get and set an arrays!" />
   </component>
 </project>

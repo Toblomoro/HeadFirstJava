@@ -7,7 +7,7 @@ public class GoodDogArray {
 
 
  GoodDog[] pets;
- pets = new GoodDog[7];
+ pets = new GoodDog[4];
 
  pets[0] = new GoodDog();
  pets[1] = new GoodDog();

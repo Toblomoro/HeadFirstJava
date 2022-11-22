@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d310617d-51d1-4d96-9f17-56af8f68e967" name="Changes" comment="Array work and iteration">
-      <change afterPath="$PROJECT_DIR$/src/Chap4_Methods_Instance_Var/GoodDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chap4_Methods_Instance_Var/GoodDogTestDrive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chap2_Objectville_exercises/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chap2_Objectville_exercises/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chap3_Variables/Array_Stuff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chap3_Variables/Array_Stuff.java" afterDir="false" />
+    <list default="true" id="d310617d-51d1-4d96-9f17-56af8f68e967" name="Changes" comment="Get and set work">
+      <change afterPath="$PROJECT_DIR$/src/Chap4_Methods_Instance_Var/GoodDogArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +50,7 @@
     "settings.editor.selected.configurable": "configurable.group.language"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.GoodDogTestDrive">
+  <component name="RunManager" selected="Application.GoodDogArray">
     <configuration name="Array_Stuff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chap3_Variables.Array_Stuff" />
       <module name="Head_First_Java" />
@@ -68,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DogTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chap2_Objectville_exercises.DogTestDrive" />
+    <configuration name="GoodDogArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap4_Methods_Instance_Var.GoodDogArray" />
       <module name="Head_First_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chap2_Objectville_exercises.*" />
+          <option name="PATTERN" value="Chap4_Methods_Instance_Var.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GoodDogArray" />
         <item itemvalue="Application.GoodDogTestDrive" />
         <item itemvalue="Application.Array_Stuff" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MovieTestDrive" />
-        <item itemvalue="Application.DogTestDrive" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668705623251</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Get and set work">
+      <created>1669073515812</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669073515812</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,6 +176,7 @@
     <MESSAGE value="PhraseOMatic exercise" />
     <MESSAGE value="Dog and Movie object creation and utilization" />
     <MESSAGE value="Array work and iteration" />
-    <option name="LAST_COMMIT_MESSAGE" value="Array work and iteration" />
+    <MESSAGE value="Get and set work" />
+    <option name="LAST_COMMIT_MESSAGE" value="Get and set work" />
   </component>
 </project>

@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d310617d-51d1-4d96-9f17-56af8f68e967" name="Changes" comment="Get and set an arrays!">
-      <change beforePath="$PROJECT_DIR$/src/Chap4_Methods_Instance_Var/GoodDogArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chap4_Methods_Instance_Var/GoodDogArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap5_Extra_Strength_Methods/GameHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap5_Extra_Strength_Methods/SimpleStartup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap5_Extra_Strength_Methods/SimpleStartupGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap5_Extra_Strength_Methods/SimpleStartupTestDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +54,7 @@
     "settings.editor.selected.configurable": "configurable.group.language"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.GoodDogArray">
+  <component name="RunManager" selected="Application.SimpleStartupGame">
     <configuration name="Array_Stuff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chap3_Variables.Array_Stuff" />
       <module name="Head_First_Java" />
@@ -90,19 +94,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="SimpleStartupGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap5_Extra_Strength_Methods.SimpleStartupGame" />
       <module name="Head_First_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chap5_Extra_Strength_Methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MovieTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chap2_Objectville_exercises.MovieTestDrive" />
+    <configuration name="SimpleStartupTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap5_Extra_Strength_Methods.SimpleStartupTestDrive" />
       <module name="Head_First_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chap2_Objectville_exercises.*" />
+          <option name="PATTERN" value="Chap5_Extra_Strength_Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SimpleStartupGame" />
+        <item itemvalue="Application.SimpleStartupTestDrive" />
         <item itemvalue="Application.GoodDogArray" />
         <item itemvalue="Application.GoodDogTestDrive" />
         <item itemvalue="Application.Array_Stuff" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.MovieTestDrive" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669076774330</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Get and set an arrays!">
+      <created>1669080012872</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669080012872</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
